@@ -1,5 +1,5 @@
 # Privacy Policy — Sparked
-Last updated: [TODAY'S DATE]
+Last updated: May 10, 2026
 
 Sparked ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information.
 
