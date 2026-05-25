@@ -27,4 +27,4 @@ Your data is stored securely using Supabase. We never sell your data to third pa
 **Your Rights**
 You can delete your account and all associated data at any time by contacting us.
 
-**Contact:** [badmoh996@gmail.com](mailto:badmoh996@gmail.com)
+**Contact:** [support@usesparked.com](mailto:support@usesparked.com)
